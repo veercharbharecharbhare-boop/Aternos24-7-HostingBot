@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Yash980756-5kHF.aternos.me:43390",
+    "port": 43390,
     "version": "",
     "try-creative": false
   },
